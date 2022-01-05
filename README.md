@@ -1,18 +1,7 @@
-# Group 1
-
-Group 1 Restaurant Management Project
+Restaurant Management Project
 
 * *Date Created*: 20 JUN 2021
 * *Last Modification Date*: 27 JUL 2021
-
-
-## Authors
-
-* [Aditya Arora](B00872193) - *(Collaborator)*
-* [Anamika Ahmed](B00870386) - *(Collaborator)*
-* [Dinesh Kumar Baalajee Jothi](B00861292) - *(Collaborator)*
-* [Milan Ganesh Acharya](B00857450) - *(Collaborator)*
-* [Pavan Abburi](B00883304) - *(Collaborator)*
 
 
 ## Running the application
