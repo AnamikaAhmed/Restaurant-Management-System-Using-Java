@@ -4,7 +4,9 @@ Restaurant Management Project
 
 - Implemented SOLID principles, creational design patterns in the business modules developed.
 
-Technologies used: IntelliJ, Java, MySQL, GitLab CI/CD pipeline, JIRA
+- Implemented Cohesion and Coupling, Clean code, Layer boundaries, refactoring techniques, etc. to write an industry standard code
+
+Technologies used: IntelliJ, Java, MySQL, GitLab CI/CD pipeline, JIRA, Test Driven Development, Design Patterns
 
 
 ## Running the application
