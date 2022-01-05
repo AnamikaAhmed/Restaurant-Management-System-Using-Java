@@ -1,6 +1,6 @@
 Restaurant Management Project
 
--The functionalities include Register, Login, Order Food, Book Table, Coupon Discount and Pay Online
+- The functionalities include Register, Login, Order Food, Book Table, Coupon Discount and Pay Online
 
 - Implemented SOLID principles, creational design patterns in the business modules developed.
 
