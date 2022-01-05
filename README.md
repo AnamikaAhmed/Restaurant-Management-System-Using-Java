@@ -1,7 +1,10 @@
 Restaurant Management Project
 
-* *Date Created*: 20 JUN 2021
-* *Last Modification Date*: 27 JUL 2021
+-The functionalities include Register, Login, Order Food, Book Table, Coupon Discount and Pay Online
+
+- Implemented SOLID principles, creational design patterns in the business modules developed.
+
+Technologies used: IntelliJ, Java, MySQL, GitLab CI/CD pipeline, JIRA
 
 
 ## Running the application
